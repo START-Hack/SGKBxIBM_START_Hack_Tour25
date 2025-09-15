@@ -1,4 +1,4 @@
-# START_Hack_Tour_1
+# <p align="center"> SGKB x IBM </p>
 # <p align="center"> Title </p>
 
 ## <p align="center"> Who are we? </p>
