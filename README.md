@@ -1,5 +1,5 @@
 # <p align="center"> St. Galler Kantonal Bank and IBM</p>
-    # <p align="center"> Personal Financial Management (PFM): Categorisation & logo assignment of expenses using GenAI </p>
+<p align="center"> Personal Financial Management (PFM): Categorisation & logo assignment of expenses using GenAI </p>
 
 # <p align="center"> Who are we? </p>
 
