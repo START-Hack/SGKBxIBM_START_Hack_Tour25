@@ -12,6 +12,7 @@ __What is the current problem?__
 - Users have limited insight into their spending and no tools to detect patterns in their spending history.
 
 __What is the expected final product?__
+
 Development of a prototype UI for an AI Finance Manager
 - Automatically categorizes bank transactions (e.g. “groceries”, “transport”, “leisure”). 
 - Automatically recognizes retailer logos and assigns them to transactions – even without a provided logo database; the use of external APIs/services (ideally free of charge) is explicitly permitted. 
