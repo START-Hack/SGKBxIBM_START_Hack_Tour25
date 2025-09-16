@@ -1,5 +1,4 @@
-# <p align="center"> SGKB x IBM </p>
-<p align="center"> Categorisation & Logo Assignment of Expenses using GenAI </p>
+# <p align="center"> SGKB x IBM: Categorisation & Logo Assignment of Expenses using GenAI </p>
 
 <p align="center"> Who are we? </p>
 
