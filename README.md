@@ -1,6 +1,6 @@
 # <p align="center"> SGKB x IBM </p>
 # <p align="center"> Title </p>
-
+Personal Financial Management
 ## <p align="center"> Who are we? </p>
 
 
