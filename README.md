@@ -1,6 +1,6 @@
-# <p align="center"> SGKB x IBM: Categorisation & Logo Assignment of Expenses using GenAI </p>
+# <p align="center"> SGKB x IBM: Personal Financial Management (PFM) </p>
 
-<p align="center"> Who are we? </p>
+# <p align="center"> Who are we? </p>
 
 We are St. Galler Kantonalbank (SGKB), the cantonal bank of St. Gallen.
 Our focus is on retail, corporate, and private banking solutions, with expertise in mortgages, SME financing, and wealth management.
