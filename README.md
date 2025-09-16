@@ -1,4 +1,5 @@
-# <p align="center"> SGKB x IBM: Personal Financial Management (PFM) </p>
+# <p align="center"> St. Galler Kantonal Bank and IBM: Personal Financial Management (PFM) </p>
+#**<p align="center"> Categorisation & logo assignment of expenses using GenAI </p>**
 
 # <p align="center"> Who are we? </p>
 
