@@ -1,8 +1,11 @@
 # <p align="center"> SGKB x IBM </p>
-# <p align="center"> Title </p>
-Personal Financial Management
-## <p align="center"> Who are we? </p>
+<p align="center"> Categorisation & Logo Assignment of Expenses using GenAI </p>
 
+<p align="center"> Who are we? </p>
+
+We are St. Galler Kantonalbank (SGKB), the cantonal bank of St. Gallen.
+Our focus is on retail, corporate, and private banking solutions, with expertise in mortgages, SME financing, and wealth management.
+Together with IBM, we aim to explore how GenAI can enhance the financial well-being of our clients.
 
 ## <p align="center"> Case Introduction </p>
 
