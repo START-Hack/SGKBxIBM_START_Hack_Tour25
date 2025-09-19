@@ -24,7 +24,8 @@ Development of a prototype UI for an AI Finance Manager
 - Possibly: Exports the results as a file (CSV/Excel) and provides an inference output point (API/endpoint) that can be integrated into the banking architecture.
 
 ## <p align="center"> Data </p>
-Transactions Data
+[20250918_Transaktionsdaten_Start-Global-Hackathon_v2.xlsx](https://github.com/user-attachments/files/22426867/20250918_Transaktionsdaten_Start-Global-Hackathon_v2.xlsx)
+
 
 ## <p align="center"> Technology </p>
 
