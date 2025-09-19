@@ -29,7 +29,9 @@ Development of a prototype UI for an AI Finance Manager
 
 ## <p align="center"> Technology </p>
 
-With IBM
+IBM ID erstellen: https://www.ibm.com/docs/en/controller/11.1.1?topic=authentication-ibmid-registration
+Orchestrate Documentation: https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=getting-started-watsonx-orchestrate
+Cloud Pack for Data: https://developer.ibm.com/learningpaths/get-started-watson-studio/
 
 ## <p align="center"> Use Case </p>
 
