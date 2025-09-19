@@ -124,4 +124,6 @@ __5. User Experience (15 %)__
 
 
 ## <p align="center"> Prize</p>
-TBD 
+- Nice watsonx Books for the winning teams
+- An invite to our Swiss Regional Club Oktoberfest Edition on Oct 14th at our Office
+- More Goodies at the event (Travelbag, Umbrella, a Thermo-Bottle)
