@@ -81,7 +81,7 @@ e. Can I please export the data via CSV?
 
 ## <p align="center"> Deep Dive Slides </p>
 
-PUT THE LINK WITH PDF FILE
+Protoype Mockup: https://github.com/START-Hack/SGKBxIBM_START_Hack_Tour25/blob/main/2025_Finance_Manager_Prototype.pdf
 
 ## <p align="center"> Presentation & Deliverables </p>
 
