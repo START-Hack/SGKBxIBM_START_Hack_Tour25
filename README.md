@@ -1,10 +1,13 @@
-# <p align="center"> St. Galler Kantonal Bank and IBM</p>
+# <p align="center"> St.Galler Kantonalbank and IBM</p>
 <p align="center"> Personal Financial Management (PFM): Categorisation & enrichment of expenses using GenAI </p>
 
 # <p align="center"> Who are we? </p>
 
-We are St. Galler Kantonalbank (SGKB), the cantonal bank of St. Gallen.
+St.Galler Kantonalbank (SGKB) is a Swiss universal bank based in the canton of St. Gallen, founded in 1868 to promote the regional economy. 
+
 Our focus is on retail, corporate, and private banking solutions, with expertise in mortgages, SME financing, and wealth management.
+We offer a full range of financial services and focuses on the core markets of Eastern and German-speaking Switzerland, as well as Germany.
+
 Together with IBM, we aim to explore how GenAI can enhance the financial well-being of our clients.
 
 ## <p align="center"> Case Introduction </p>
