@@ -24,7 +24,7 @@ Development of a prototype UI for an AI Finance Manager
 - Possibly: Exports the results as a file (CSV/Excel) and provides an inference output point (API/endpoint) that can be integrated into the banking architecture.
 
 ## <p align="center"> Data </p>
-Transaction code
+Transactions Data
 
 ## <p align="center"> Technology </p>
 
