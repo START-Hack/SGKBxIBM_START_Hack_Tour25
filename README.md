@@ -100,7 +100,7 @@ Protoype Mockup: https://github.com/START-Hack/SGKBxIBM_START_Hack_Tour25/blob/m
   <li>Spotify-like retrospection: With the help of GenAI, a creative image or meme could be generated for each month: "This is what your July looked like based on your spending."</li>
   <li>Personalization: User preferences could influence spending patterns. For example a soccer fan would spend more on the topic - buying expensive tickets for a football match, merch of his club and having expensive hotel overnight stays to watch an away game - than a generic user</li>
   <li>Look into the future: a nice to have could be a forecast of upcoming spendings and its impact on financial freedom.</li>
-  <li>Link to calendar entries: If you take a note in your calendar "buy a present for friend xyz" this could lead to an unsual spending pattern. The banking app would not know about the background of this purchase while the calendar entry would explains it.</li>
+  <li>Link to calendar entries: If you take a note in your calendar "buy a present for friend xyz" this could lead to an unsual spending pattern. The banking app would not know about the background of this purchase while the calendar entry would explain it.</li>
 </ul>
 
 ## <p align="center"> Presentation & Deliverables </p>
