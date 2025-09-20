@@ -40,16 +40,20 @@ Cloud Pack for Data: https://developer.ibm.com/learningpaths/get-started-watson-
 
 ## <p align="center"> Corporate Colors and Fonts </p>
 The corporate colors of St.Galler Kantonalbank are based on the colors of the canton's coat of arms, thus creating a direct sense of affiliation with the region.
-<table border="1">
-  <tr>
-    <td><img width="312" height="387" alt="image" src="https://github.com/user-attachments/assets/f0c3a21f-6323-4ec7-8e73-6c8c0df95842" /></td>
-    <td><img width="1200" height="436" alt="SGKB-corporate colors" src="https://github.com/user-attachments/assets/95e9a159-5a22-4409-9618-4384d8bbdd5f" /></td>
-  </tr>
-  <tr>
-     <td>“Frutiger” is the corporate typeface of the St.Galler Kantonalbank.</td>
-    <td>https://github.com/START-Hack/SGKBxIBM_START_Hack_Tour25/blob/main/NeueFrutiger-SGKB-Bold%2CLight%2CRegular.zip</td>
-  </tr>
-</table>
+
+### Primary
+<img width="1073" height="821" alt="image" src="https://github.com/user-attachments/assets/7b98e96e-caf7-4cc8-a556-08f5fd656c28" />
+<img width="1049" height="542" alt="image" src="https://github.com/user-attachments/assets/becd5190-44d4-4c6e-9273-020d00b7cd35" />
+
+### Secondary
+<img width="1039" height="807" alt="image" src="https://github.com/user-attachments/assets/694bca31-2eaf-4e70-8612-f9b53409af13" />
+<img width="1056" height="564" alt="image" src="https://github.com/user-attachments/assets/42550172-47b8-4426-8cf6-7affc29d607c" />
+
+### State
+<img width="1032" height="812" alt="image" src="https://github.com/user-attachments/assets/ca322728-b9e6-4533-a8e6-b66160215901" />
+
+### Fonts
+“Frutiger” is the corporate typeface of the St.Galler Kantonalbank. https://github.com/START-Hack/SGKBxIBM_START_Hack_Tour25/blob/main/NeueFrutiger-SGKB-Bold%2CLight%2CRegular.zip
 
 ## <p align="center"> Use Case </p>
 
