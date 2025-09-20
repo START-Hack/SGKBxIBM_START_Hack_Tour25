@@ -10,7 +10,8 @@ We offer a full range of financial services and focuses on the core markets of E
 
 Together with IBM, we aim to explore how GenAI can enhance the financial well-being of our clients.
 
-It is planned to integrate the new AI-driven expenses analysis and advice service into our mobile app. A Demo of our current app is available here: https://www.sgkb.ch/static/demo-app
+A new AI-driven expenses analysis and advice service - based on your protoype - is planned to be integrated into our mobile app. 
+A Demo of our current app is available here: https://www.sgkb.ch/static/demo-app
 
 ## <p align="center"> Case Introduction </p>
 __What is the current problem?__
