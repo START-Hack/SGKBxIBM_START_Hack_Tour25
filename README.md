@@ -43,8 +43,6 @@ The corporate colors of St.Galler Kantonalbank are based on the colors of the ca
 <table border="1">
   <tr>
     <td><img width="312" height="387" alt="image" src="https://github.com/user-attachments/assets/f0c3a21f-6323-4ec7-8e73-6c8c0df95842" /></td>
-  </tr>
-  <tr>
     <td><img width="1200" height="436" alt="SGKB-corporate colors" src="https://github.com/user-attachments/assets/95e9a159-5a22-4409-9618-4384d8bbdd5f" /></td>
   </tr>
 </table>
