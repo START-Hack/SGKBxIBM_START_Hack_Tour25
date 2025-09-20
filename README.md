@@ -47,6 +47,7 @@ The corporate colors of St.Galler Kantonalbank are based on the colors of the ca
   </tr>
   <tr>
      <td>“Frutiger” is the corporate typeface of the St.Galler Kantonalbank.</td>
+    <td>https://github.com/START-Hack/SGKBxIBM_START_Hack_Tour25/blob/main/NeueFrutiger-SGKB-Bold%2CLight%2CRegular.zip</td>
   </tr>
 </table>
 
