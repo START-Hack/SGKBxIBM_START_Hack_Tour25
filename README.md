@@ -95,7 +95,7 @@ e. Can I please export the data via CSV?
 
 Protoype Mockup: https://github.com/START-Hack/SGKBxIBM_START_Hack_Tour25/blob/main/2025_Finance_Manager_Prototype.pdf
 
-<b>Additional ideas that came up in the Q&A sessions/<b>
+<b>Additional ideas that came up during the Q&A sessions:<b>
 <ul>
   <li>Spotify-like retrospection: With the help of GenAI, a creative image or meme could be generated for each month: "This is what your July looked like based on your spending."</li>
   <li>Personalization: User preferences could influence spending patterns. For example a soccer fan would spend more on the topic - buying expensive tickts, merch of his club and having expensive Hotel overnight stays to watch an away game - than a generic user</li>
