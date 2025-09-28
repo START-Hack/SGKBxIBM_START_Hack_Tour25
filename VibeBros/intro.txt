@@ -1,0 +1,11 @@
+Team VibeBros
+
+Clanky - More money in your pocket, withour changing your lifestyle
+
+Clanky is a personalized AI finance expert in your pocket.
+It analyzes your transactions to detect hidden costs, forgotten subscriptions, and smarter partner offers turning complex financial data into fun, easy-to-digest insights.
+Unlike budgeting apps that push you to spend less, Clanky helps you save more while living the same life, ensuring you end each month with more left over.
+
+Demo Video: https://drive.google.com/file/d/1IdwN_2XcIuPRPB65-SSe-6IMyLNdy7xu/view?usp=share_link
+
+GitHub: https://github.com/Vibebros/sgkb-clanky
